@@ -5,7 +5,6 @@
 
 
 ## 🙋‍♂️ About Me
-<br>
 
 - 🔭 I’m currently studying **Computer Science** at **[Fast Nuces Islamabad](http://isb.nu.edu.pk/)**
 
