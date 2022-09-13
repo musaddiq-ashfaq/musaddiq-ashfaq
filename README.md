@@ -38,7 +38,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/musaddiq-ashfaq/github-readme-streak-stats">
+    <a href="https://github.com/musaddiq-ashfaq/">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Musaddiq Ashfaq's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=musaddiq-ashfaq&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -46,14 +46,14 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/musaddiq-ashfaq/github-readme-stats"><img alt="Musaddiq Ashfaq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=musaddiq-ashfaq&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/musaddiq-ashfaq/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaddiq-ashfaq&layout=compact&langs_count=7&theme=dracula"/></a>
+    <a href="https://github.com/musaddiq-ashfaq/"><img alt="Musaddiq Ashfaq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=musaddiq-ashfaq&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/musaddiq-ashfaq/"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaddiq-ashfaq&layout=compact&langs_count=7&theme=dracula"/></a>
   <br/>
 
 
 <br/>
 <br/>
-<a href="https://github.com/musaddiq-ashfaq/github-readme-activity-graph"><img alt="Musaddiq Ashfaq's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=musaddiq-ashfaq&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/musaddiq-ashfaq/"><img alt="Musaddiq Ashfaq's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=musaddiq-ashfaq&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -71,7 +71,7 @@
 
 
 ## ❤ Views and Followers
-<a href="https://github.com/musaddiq-ashfaq/github-profile-views-counter">
+<a href="https://github.com/musaddiq-ashfaq/">
     <img src="https://komarev.com/ghpvc/?username=musaddiq-ashfaq">
 </a>
-<a href="https://github.com/musaddiq-ashfaq?tab=followers"><img src="https://img.shields.io/github/followers/musaddiq-ashfaq?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/musaddiq-ashfaq/"><img src="https://img.shields.io/github/followers/musaddiq-ashfaq?label=Followers&style=social" alt="GitHub Badge"></a>
