@@ -30,7 +30,6 @@
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
     <img src="https://img.icons8.com/color/48/000000/wordpress.png"/>
-    <img src="https://user-images.githubusercontent.com/110912144/189964093-c22f4066-b5c2-4628-a38d-a1815a049949.jpg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </p>
 
