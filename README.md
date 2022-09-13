@@ -29,6 +29,7 @@
     <img src="https://img.icons8.com/color/48/000000/python.png"/> 
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+    </p>![tailwindcss-pre](https://user-images.githubusercontent.com/110912144/189945840-650c596a-74f2-4c2d-8af4-a4520c3a0e56.png)
     <img src="https://img.icons8.com/color/48/000000/wordpress.png"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </p>
@@ -65,7 +66,8 @@
 <a href = "https://www.instagram.com/musaddiqashfaq/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="http://musaddiq-ashfaq.github.io/Portfolio" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/google-logo.png"/>
 
-</p>
+
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/musaddiq-ashfaq/github-profile-views-counter">
