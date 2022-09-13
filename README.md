@@ -48,6 +48,7 @@
   <br/>
     <a href="https://github.com/musaddiq-ashfaq/github-readme-stats"><img alt="Musaddiq Ashfaq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=musaddiq-ashfaq&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/musaddiq-ashfaq/github-readme-stats"><img alt="Musaddiq Ashfaq's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaddiq-ashfaq&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaddiq-ashfaq&layout=compact&langs_count=7&theme=dracula"/>
   <br/>
 
 
