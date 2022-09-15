@@ -46,8 +46,14 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/musaddiq-ashfaq/"><img alt="Musaddiq Ashfaq's Github Stats" src="https://github-readme-stats.vercel.app/api?username=musaddiq-ashfaq&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/musaddiq-ashfaq/"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaddiq-ashfaq&layout=compact&langs_count=7&theme=dracula"/></a>
+    <a href="https://github.com/musaddiq-ashfaq/"><img alt="Musaddiq Ashfaq's Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=musaddiq-ashfaq&theme=2077" />
+    <a href="https://github.com/musaddiq-ashfaq/"><img alt="Musaddiq Ashfaq's Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=musaddiq-ashfaq&theme=2077">
+    <br/>
+    <a href="https://github.com/musaddiq-ashfaq/"><img alt="Musaddiq Ashfaq's Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=musaddiq-ashfaq&theme=2077">
+    <br/>
+    <a href="https://github.com/musaddiq-ashfaq/"><img alt="Musaddiq Ashfaq's Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=musaddiq-ashfaq&theme=2077">
+    <br/>
+    <a href="https://github.com/musaddiq-ashfaq/"><img alt="Musaddiq Ashfaq's Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=musaddiq-ashfaq&theme=2077&utcOffset=8">
   <br/>
 
 
