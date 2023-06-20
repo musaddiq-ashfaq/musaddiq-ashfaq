@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying **Computer Science** at **[Fast Nuces Islamabad](http://isb.nu.edu.pk/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
